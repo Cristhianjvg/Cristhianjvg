@@ -1,7 +1,6 @@
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV1djg5cmcwb2RpYm11OWt4dDE5d29naTJoOWN0eTZxY2s1OTdtNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif">
-
-# Hi there 👋
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenAwN2lpbzdzOHYxY3dkenBnOXk0dWJrMzR2eThiaWUzZGFzNXNxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/42tS2cfBtj8Y/giphy.gif"> 
+# Binvenido 👋
 
 <!--
 **Cristhianjvg/Cristhianjvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
