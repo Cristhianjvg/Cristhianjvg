@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV1djg5cmcwb2RpYm11OWt4dDE5d29naTJoOWN0eTZxY2s1OTdtNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif">
+
+# Hi there 👋
 
 <!--
 **Cristhianjvg/Cristhianjvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
