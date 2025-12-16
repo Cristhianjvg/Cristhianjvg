@@ -3,7 +3,7 @@
 
 # Bienvenido 👋
 Mi nombre es Cristhian Villamarin <br>
-👩🏻‍🎓 Estudio [Ciencias de la Computacion](https://utpl.edu.ec/) en la Universidad Técnica Particular de Loja, Ecuador<br/>
+👩🏻‍🎓 Ingeniero en Ciencias de la Computación gradudo en la Universidad Técnica Particular de Loja, Ecuador<br/>
 
 
 
