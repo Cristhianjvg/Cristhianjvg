@@ -79,7 +79,8 @@
 ###
 
 <div align="center">
-
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cristhianjvg&theme=dracula" />
 
 <img src="https://streak-stats.demolab.com?user=Cristhianjvg&theme=dracula" height="180"/>
 
