@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Soy Christian Villamarín, de Ecuador 🇪🇨  <br>- 🔭 Actualmente trabajo como Fundador y Desarrollador de Software en **SofiWeb**  <br>- 🎓 Estudié en la Universidad Técnica Particular de Loja (UTPL)  <br>- 🏫 También soy docente en un Instituto Superior Tecnológico  <br>- 📚 Actualmente estoy aprendiendo nuevos lenguajes de programación y arquitecturas de software  <br>- ⚡ En mi tiempo libre desarrollo aplicaciones y exploro nuevas tecnologías</p>
+<p align="left">Soy Cristhian Villamarín, de Ecuador 🇪🇨  <br>- 🔭 Actualmente trabajo como Fundador y Desarrollador de Software en **SofiWeb**  <br>- 🎓 Estudié en la Universidad Técnica Particular de Loja (UTPL)  <br>- 🏫 También soy docente en un Instituto Superior Tecnológico  <br>- 📚 Actualmente estoy aprendiendo nuevos lenguajes de programación y arquitecturas de software  <br>- ⚡ En mi tiempo libre desarrollo aplicaciones y exploro nuevas tecnologías</p>
 
 ###
 
