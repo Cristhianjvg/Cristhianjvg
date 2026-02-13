@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">holaaa👋</h1>
+<h1 align="center">Hey There👋</h1>
 
 ###
 
