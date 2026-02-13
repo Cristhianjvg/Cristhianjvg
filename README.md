@@ -80,9 +80,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cristhianjvg&show_icons=true&theme=dracula" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhianjvg&layout=compact&theme=dracula" height="180"/>
 
 <img src="https://streak-stats.demolab.com?user=Cristhianjvg&theme=dracula" height="180"/>
 
